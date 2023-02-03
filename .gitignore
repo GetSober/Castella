@@ -97,3 +97,5 @@ Plugins/**/Intermediate/*
 
 
 Content/*
+!Content/Blueprint
+!Content/Blueprints
