@@ -1,0 +1,5 @@
+,**** Particle Performance Stats
+,Name,Average PerFrame GameThread,Average PerInstance GameThread,Average PerFrame RenderThread,Average PerInstance RenderThread,NumFrames,Total Instances,Total Tick GameThread,Total Tick Concurrent,Total Finalize,Total End Of Frame,Total Render Update,Total Get Dynamic Mesh Elements,Max PerFrame GameThread,Max Range PerFrame GameThread,Max PerFrame RenderThread,Max Range PerFrame RenderThread
+,** Per System Stats
+,NewNiagaraSystem,0,0,18,9,0,0,0,0,0,0,0,17,0,[ 0 0 0 0 0 0 0 0 0 0 ],9,[ 18 0 0 0 0 0 0 0 0 0 ]
+,NewNiagaraSystem1,0,0,0,0,0,0,0,0,0,0,0,0,0,[ 0 0 0 0 0 0 0 0 0 0 ],0,[ 0 0 0 0 0 0 0 0 0 0 ]
